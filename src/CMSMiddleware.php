@@ -1,7 +1,7 @@
 <?php
 namespace Tualo\Office\ContentManagementSystem;
 
-class CMSMiddleWare{
+class CMSMiddleware{
     public static function run(&$request,&$result){
 
     }
