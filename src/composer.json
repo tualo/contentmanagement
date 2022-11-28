@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Tualo\\Office\\CMS\\": "src/"
+            "Tualo\\Office\\ContentManagementSystem\\": "src/"
         }
     },
     "minimum-stability": "dev",
